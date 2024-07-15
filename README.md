@@ -1,5 +1,6 @@
 # InsideOut
-
+Username: demo@se.shenkar.ac.il
+Password: Aa12345678!
 ## Installing
 
 ### Step 1: Clone the Repository
